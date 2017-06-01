@@ -1,2 +1,2 @@
-# wp-nextgen
+# psd-to-wp-nextgen
 landing page 
